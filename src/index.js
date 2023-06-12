@@ -20,5 +20,5 @@ import { HashRouter as Router } from "react-router-dom";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
-ReactGA.initialize("G-4QXX1B6CY4 ");
+ReactGA.initialize("G-4QXX1B6CY4");
 ReactGA.pageview(window.location.pathname + window.location.search);
